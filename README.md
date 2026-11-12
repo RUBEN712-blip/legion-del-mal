@@ -7,7 +7,7 @@
 ![Release](https://img.shields.io/github/v/release/RUBEN712-blip/legion-del-mal).
 ![Issues](https://img.shields.io/github/issues/RUBEN712-blip/legion-del-mal).
 ![Último commit](https://img.shields.io/github/last-commit/RUBEN712-blip/legion-del-mal).
-![Licencia](https://img.shields.io/github/license/RUBEN712-blip/legion-del-mal).
+![Licencia](https://img.shields.io/github/license/RUBEN712-blip/legion-del-mal?cacheSeconds=60).
 
 # 🦹‍♂️ La Legión del Mal
 
