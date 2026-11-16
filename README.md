@@ -12,6 +12,8 @@
 
 # 🦹‍♂️ La Legión del Mal - Desde local 
 
+### Es una ficha del ADSO aprendiendo Git y Github 
+
 
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
