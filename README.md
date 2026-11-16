@@ -10,7 +10,7 @@
 ![Licencia](https://img.shields.io/github/license/RUBEN712-blip/legion-del-mal?cacheSeconds=60).
 
 
-# 🦹‍♂️ La Legión del Mal - Desde remoto y Local
+# 🦹‍♂️ La Legión del Mal 
 
 
 
