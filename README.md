@@ -10,7 +10,7 @@
 ![Licencia](https://img.shields.io/github/license/RUBEN712-blip/legion-del-mal?cacheSeconds=60).
 
 
-# 🦹‍♂️ La Legión del Mal 
+# 🦹‍♂️ La Legión del Mal - Desde local 
 
 
 
@@ -18,7 +18,7 @@
 > — Lex Luthor, fundador
 
 ## ¿Quiénes somos? -  Remoto y Local
-
+s
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
 ## Estructura de la organización!!
